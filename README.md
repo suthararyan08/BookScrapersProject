@@ -12,14 +12,8 @@ git clone https://github.com/yourusername/book-scraper-analyzer.git
 cd book-scraper-analyzer
 ```
 
-2. **(Optional) Create and activate a virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate     # macOS/Linux
-venv\Scripts\activate        # Windows
-```
 
-3. **Install required dependencies**
+2. **Install required dependencies**
 ```bash
 pip install -r requirements.txt
 ```
@@ -111,8 +105,3 @@ Install them with:
 pip install -r requirements.txt
 ```
 
----
-
-## 📬 Contributions
-
-Feel free to fork this project and open a pull request with improvements or suggestions!
