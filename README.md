@@ -8,7 +8,7 @@ This project is a **Python-based tool** that scrapes book information from the w
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/book-scraper-analyzer.git
+git clone https://github.com/suthararyan08/book-scraper-analyzer.git
 cd book-scraper-analyzer
 ```
 
